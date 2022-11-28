@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>RRIGO</title>
+<title>Similitud semántica</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./project.html" rel="next">
+<link href="./parties.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -70,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">RRIGO</h1>
+      <h1 class="quarto-secondary-nav-title">Similitud semántica</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -98,7 +98,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">RRIGO</a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">RRIGO</a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -158,7 +158,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./semantic.html" class="sidebar-item-text sidebar-link">Similitud semántica</a>
+  <a href="./semantic.html" class="sidebar-item-text sidebar-link active">Similitud semántica</a>
   </div>
 </li>
       </ul>
@@ -174,19 +174,18 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#representación-retórica-e-influencia-de-los-grupos-organizados-en-la-definición-del-debate-público-y-en-la-actividad-legislativa" id="toc-representación-retórica-e-influencia-de-los-grupos-organizados-en-la-definición-del-debate-público-y-en-la-actividad-legislativa" class="nav-link active" data-scroll-target="#representación-retórica-e-influencia-de-los-grupos-organizados-en-la-definición-del-debate-público-y-en-la-actividad-legislativa">Representación retórica e influencia de los grupos organizados en la definición del debate público y en la actividad legislativa</a>
-  <ul class="collapse">
-  <li><a href="#workshop---el-texto-en-la-política-oportunidades-del-procesamiento-de-lenguaje-natural-en-la-investigación-en-ciencia-política" id="toc-workshop---el-texto-en-la-política-oportunidades-del-procesamiento-de-lenguaje-natural-en-la-investigación-en-ciencia-política" class="nav-link" data-scroll-target="#workshop---el-texto-en-la-política-oportunidades-del-procesamiento-de-lenguaje-natural-en-la-investigación-en-ciencia-política">Workshop - El texto en la política: oportunidades del procesamiento de lenguaje natural en la investigación en ciencia política</a></li>
-  </ul></li>
+  <li><a href="#influencia-retórica" id="toc-influencia-retórica" class="nav-link active" data-scroll-target="#influencia-retórica">Influencia retórica</a></li>
+  <li><a href="#extracción-automática-de-declaraciones-claim-mining" id="toc-extracción-automática-de-declaraciones-claim-mining" class="nav-link" data-scroll-target="#extracción-automática-de-declaraciones-claim-mining">Extracción automática de declaraciones (Claim mining)</a></li>
+  <li><a href="#similitud-semántica-entre-declaraciones" id="toc-similitud-semántica-entre-declaraciones" class="nav-link" data-scroll-target="#similitud-semántica-entre-declaraciones">Similitud semántica entre declaraciones</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/ccristancho/edit/main/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/ccristancho/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/ccristancho/edit/main/semantic.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/ccristancho/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">RRIGO</h1>
+<h1 class="title d-none d-lg-block">Similitud semántica</h1>
 </div>
 
 
@@ -200,19 +199,36 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="representación-retórica-e-influencia-de-los-grupos-organizados-en-la-definición-del-debate-público-y-en-la-actividad-legislativa" class="level1">
-<h1>Representación retórica e influencia de los grupos organizados en la definición del debate público y en la actividad legislativa</h1>
-<section id="workshop---el-texto-en-la-política-oportunidades-del-procesamiento-de-lenguaje-natural-en-la-investigación-en-ciencia-política" class="level3">
-<h3 class="anchored" data-anchor-id="workshop---el-texto-en-la-política-oportunidades-del-procesamiento-de-lenguaje-natural-en-la-investigación-en-ciencia-política">Workshop - El texto en la política: oportunidades del procesamiento de lenguaje natural en la investigación en ciencia política</h3>
-<p>Miércoles 14 de diciembre de 2022 10-17h Departament de Ciència Política, Dret Constitucional i Filosofia del Dret Universitat de Barcelona</p>
-<p><a href="mailto:camilo.cristancho@ub.edu">Inscríbete</a></p>
-<p>La política se ejerce a través del lenguaje. A pesar de esta obviedad, tan sólo en las últimas dos décadas se han utilizado progresivamente métodos computacionales para analizar el texto en las ciencias sociales. Afortunadamente, las herramientas para el análisis de texto avanzan rápidamente con las aplicaciones de las ciencias computacionales y los recursos que desarrolla la industria y cada vez es más fácil tener acceso a los registros de texto de gran parte de los eventos que definen el quehacer político en el día a día. Esto ha llevado a un interés creciente en los métodos computacionales para el estudio del texto en la investigación en políticas.</p>
-<p>Este evento es una oportunidad para reflexionar sobre las posibilidades que tenemos a nuestro alcance para el análisis computacional de texto e introducir una de las herramientas más actuales a nuestra disposición.</p>
-<p><a href="./data/workshop_nlp.pdf">Programa</a></p>
-<p><span style="color: grey;"><em>El Proyecto Representación Retórica e Influencia de los Grupos Organizados en la Definición del Debate Público y en la Actividad Legislativa es financiado con una beca “Retos de Investigación” tipo JIN (Jóvenes Investigadores) del Gobierno de España - RTI2018-100861-J-I00.</em></span></p>
-
-
+<section id="influencia-retórica" class="level2">
+<h2 class="anchored" data-anchor-id="influencia-retórica">Influencia retórica</h2>
+<p><em>“He who wants to persuade should put his trust not in the right argument, but in the right word.”</em></p>
+<pre><code>                                                              Joseph Conrad
+                                                              </code></pre>
+<p>La medición de la influencia retórica se basa en determinar la similitud semántica entre las declaraciones de los actores en el tiempo. En la medida en que haya convergencia entre los grupos de interés/organizaciones sociales y los partidos políticos existe un indicio de que los primeros logran tener influencia sobre los segundos. A pesar de que la convergencia en las declaraciones de los actores puede producirse por otros factores diferentes a que se ejerza un influencia, medir la convergencia es el primer paso.</p>
+<p>Para ello es necesario idetificar las declaraciones de los actores y medir en qué medida se parecen entre ellas.</p>
 </section>
+<section id="extracción-automática-de-declaraciones-claim-mining" class="level1">
+<h1>Extracción automática de declaraciones (Claim mining)</h1>
+<p>La extracción automática de declaraciones implica identificar el actor que emite la declración (grupo de interés o partido) y su declaración. Para ello se han identificado patrones sintácticos (Welbers et al., 2021) que permiten identificar los argumentos presentados por los actores.</p>
+<p>El proceso de extracción automática de declaraciones consiste en 5 pasos: 1. Etiquetado sintáctico (POS) y análisis de dependencias (SpacyR - Benoit &amp; Matsuo, 2019) 2. Identificación de patrones sintácticos a partir de una lista de palabras de 83 verbos que indican verbos declarativos (rsyntax - Welbers et al., 2021). 3. Extracción de cláusulas sujeto-predicado. 4. Extracción de la lista de términos enriquecidos del resultado. 5. Validación de los resultados utilizando declaraciones identificadas manualmente (Datos del proyecto LIVEWHAT en España – Declaraciones sobre la crisis económica en cinco fuentes de noticias 2008-2014. (N=1022).)</p>
+<p>Un ejemplo de una declaración emitida por un partido político:</p>
+<p><em>“Casado pide ayudas para la bajada de los costes energéticos, fiscales y laborales, porque el Gobierno hace más rígida la contratación en un momento en que se necesita más flexibilidad y menos trabas”.</em></p>
+<p>Esta se representa mediante un <a href="./images/plot_tree.html">árbol de dependencia:</a></p>
+<p>y se identifica al sujeto (“Casado”) y la declaración: (“pide ayudas para la bajada de los costes energéticos, fiscales y laborales, porque el Gobierno hace más rígida la contratación en un momento en que se necesita más flexibilidad y menos trabas”).</p>
+</section>
+<section id="similitud-semántica-entre-declaraciones" class="level1">
+<h1>Similitud semántica entre declaraciones</h1>
+<p>Este enfoque se basa en investigaciones que estudian la similitud entre corpus de texto de múltiples fuentes y contextos (Shaffer &amp; Elkins, 2019 para una revisión). La similitud semántica permite rastrear patrones de difusión entre actores políticos y contextos institucionales. Investigaciones anteriores han medido hasta qué punto los partidos “escuchan” a los grupos de interés utilizando métodos de reutilización de textos en el parlamento (Røed, 2022). Este método identifica la alineación entre documentos teniendo en cuenta las subcadenas coincidentes, lo cual se limita a fragmentos de texto exactos.</p>
+<p>Para este proyecto se utiliza un método que permite identificar las diferencias en el uso de características lingüísticas en los documentos mediante el aprendizaje automático para predecir la probabilidad de que un documento pertenezca a un determinado corpus (Berk, 2020; Widmer et al., 2020). Específicamente, se utiliza un clasificador automático para calcular la probabilidad de que una declaración de un grupo de interés sea escrita por un partido político. En la medida en que una declaración de un grupo de interés tenga una alta probabilidad de haber sido una declaración de un partido, la similitud semántica entre las dos declaraciones será alta.</p>
+<p>Se entrenaron múltiples clasificadores binomiales que indican si una declaración es expresada por un partido o por todos los demás. Para ello, se utilizaron las declaraciones expresadas por los partidos en cada área tématica.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./images/classifier_2issues.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Validación cruzada del clasificador de partido - Modelos binomiales doc2vec (AUC)</figcaption><p></p>
+</figure>
+</div>
+
+
 </section>
 
 </main> <!-- /main -->
@@ -316,11 +332,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./parties.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Partidos</span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./project.html" class="pagination-link">
-        <span class="nav-page-text">Descripción del proyecto</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
