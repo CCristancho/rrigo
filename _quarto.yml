@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 margin-header: |
   ![](/images/logo1.png)
