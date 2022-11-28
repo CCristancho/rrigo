@@ -1,0 +1,34 @@
+---
+title: "Publicaciones"
+editor: visual
+---
+
+## [La agenda de los grupos de interés frente a la COVID-19: el rastro digital en Twitter](https://recyt.fecyt.es/index.php/recp/article/view/90044)
+
+Camilo Cristancho
+
+Revista Española de Ciencia Política, 57, 00-00. 2021
+
+https://doi.org/10.21308/recp.57.00
+
+***Resumen***
+
+Los grupos de interés están teniendo un rol fundamental en la resolución de los problemas generados por la pandemia Covid-19, en cuanto abordan múltiples asuntos y representan a los grupos sociales en torno a un reto social sin precedentes. Múltiples organizaciones expresan cada día las preocupaciones y demandas de sus constituyentes, forjando de esta manera una agenda en la que se debate cómo hacer frente a los múltiples efectos de la pandemia en diversos sectores. Sin embargo, dada la dinámica de atención propia de la situación de emergencia y la diversidad de los temas, es difícil seguir la diversidad y complejidad de múltiples actores y temas. Este artículo describe la agenda de los grupos de interés en España a partir de las publicaciones en la red social Twitter de las 140 organizaciones más activas entre marzo de 2018 y marzo de 2021. Mediante la clasificación automática de texto es posible concluir que la atención agregada por tipos de grupos de interés a los principales asuntos de la agenda varía poco a partir del estallido de la crisis provocada por la pandemia. La atención a las dimensiones sanitarias, sociopolíticas y económicas relacionadas con el Covid-19 sigue patrones similares entre los diferentes tipos de grupos y es transversal a los asuntos de la agenda. Estos resultados demuestran que los grupos de interés continúan ejerciendo sus funciones de representación de intereses sin alterar significativamente su comportamiento en respuesta a la crisis.
+
+*Palabras clave:* grupos de interés, agenda, COVID-19, redes sociales, Twitter, análisis automático de texto, ciencia social computacional
+
+
+## [The cultural outcomes of social movements: a computational linguistics approach](http://siba-ese.unisalento.it/index.php/paco/article/view/24487)
+
+Camilo Cristancho
+
+PArtecipazione e COnflitto. Vol. 14, No. 3. 2021. "When, where and which kind of collective action matters?"
+
+https://doi.org/10.1285/i20356609v14i3p1151
+
+***Resumen***
+
+Scholars have long established the importance of the cultural outcomes of social movements in the context of political power and representation. However, they have also acknowledged the methodological difficulties associated with studying cultural outcomes, especially when culture is manifested through linguistic practices. This paper addresses the potential for dealing with movements and culture as manifested in symbols, public discourse, narratives, and rhetoric and makes two contributions: It links the social movement literature studying culture through language with Natural Language Processing (NLP) techniques for systematic and comprehensive cultural analysis; and introduces a state-of the-art method which provides a better understanding of language change and linguistic influence given the capacity of computational analyses to process large volumes of data for multiple actors and varied data sources during long periods of time. The paper describes the cultural influence of women organizations in Spain between 2000-2020 on issues such as gender inequalities, abortion, gender violence, prostitution, and surrogacy. Tweets and manifestos by women’s organizations’, as well as national press coverage of women issues and interventions by MPs in the parliamentary arena, are used to describe the advantages and limitations of the method for the study of cultural outcomes. Computational linguistics provides new possibilities for scholarly research on cultural outcomes of social movements but also shows that these methods should be accompanied by precise definitions of cultural outcomes, detailed and replicable operationalisation processes, and theoretical models that identify the mechanisms that explain the linguistic phenomena that underly cultural change.
+
+*Palabras clave:* Cultural outcomes; social movements; natural language processing, computational linguistics
+---

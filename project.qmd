@@ -1,0 +1,30 @@
+---
+title: "Descripción del proyecto"
+editor: visual
+---
+
+Los grupos de interés y organizaciones de movimientos sociales influyen decisivamente en la política al definir los problemas públicos, proponer soluciones, agregar preferencias políticas, movilizar la acción política e interactuar con los partidos políticos y los representantes elegidos. No cabe duda de que su acción es indispensable para la vida democrática. Sin embargo, sabemos poco sobre qué organizaciones participan en el proceso de elaboración de las políticas, cómo lo hacen, y con qué objetivos.
+
+<span style="color: grey;">*El Proyecto Representación Retórica e Influencia de los Grupos Organizados en la Definición del Debate Público y en la Actividad Legislativa es financiado con una beca "Retos de Investigación" tipo JIN (Jóvenes Investigadores) del Gobierno de España - RTI2018-100861-J-I00.*</span>
+
+Investigador principal: [Camilo Cristancho](ccristancho.github.io)
+
+## Diseño
+
+*Este proyecto estudia la capacidad de influencia de éstos grupos organizados de ciudadanos en los espacios formales de representación y en otras arenas de interacción pública.* ¿Hasta qué punto responden los legisladores a la acción asociativa y la contestación social de grupos organizados de ciudadanos?
+
+Se pretende responder a preguntas como: 1. ¿Cuándo se incluyen las iniciativas sociales y demandas ciudadanas en los procesos de discusión pública y la formulación de políticas? 2. ¿En qué medida se expresan los representantes políticos y los grupos organizados en términos similares y sobre las mismas dimensiones de los asuntos sociales?
+
+## Métodos
+
+Para ello se usan instrumentos que permiten medir el grado de similitud semántica entre las organizaciones de interés y los representantes en sus expresiones públicas a través de medios propios y las redes sociales, así como en los debates parlamentarios.
+
+## Impacto
+
+-   Descripción de la actividad política más allá de los espacios institucionales y especialmente, en el nivel de detalle que aporta el análisis lingüístico a un tema tan complejo como el de los procesos de representación política.
+
+-   Producción de datos sobre contenidos de las redes sociales y contenidos de las organizaciones y prensa partidista (2008-2020).
+
+-   Desarrollo y aplicación de métodos computacionales y de análisis semántico al rastro digital de la política en España.
+
+-   Evidencia sobre las implicaciones de diferentes prácticas y estrategias de los grupos organizados sobre la equidad en el acceso a los procesos de representación política.

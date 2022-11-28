@@ -1,0 +1,40 @@
+project:
+  type: website
+
+margin-header: |
+  ![](/images/logo1.png)
+  
+website:
+  #title: "Rhetorical Representation of Interest Group Organizations"
+  page-navigation: true
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - section: "About"
+        contents:
+          - index.qmd
+          - project.qmd
+      - section: "Research"
+        contents:
+          - publicaciones.qmd
+          - ongoing.qmd
+      - section: "Data"
+        contents:
+          - igos.qmd
+          - parties.qmd
+      - section: "Métodos"
+        contents:
+          - semantic.qmd
+          
+  repo-url: https://github.com/ccristancho
+  repo-actions: [edit, issue]
+  
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+editor: visual

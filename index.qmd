@@ -1,0 +1,23 @@
+---
+title: "RRIGO"
+editor: visual
+---
+
+# Representación retórica e influencia de los grupos organizados en la definición del debate público y en la actividad legislativa
+
+### Workshop - El texto en la política: oportunidades del procesamiento de lenguaje natural en la investigación en ciencia política
+
+Miércoles 14 de diciembre de 2022 10-17h
+Departament de Ciència Política, Dret Constitucional i Filosofia del Dret
+Universitat de Barcelona
+
+[Inscríbete](mailto:camilo.cristancho@ub.edu)
+
+La política se ejerce a través del lenguaje. A pesar de esta obviedad, tan sólo en las últimas dos décadas se han utilizado progresivamente métodos computacionales para analizar el texto en las ciencias sociales. Afortunadamente, las herramientas para el análisis de texto avanzan rápidamente con las aplicaciones de las ciencias computacionales y los recursos que desarrolla la industria y cada vez es más fácil tener acceso a los registros de texto de gran parte de los eventos que definen el quehacer político en el día a día. Esto ha llevado a un interés creciente en los métodos computacionales para el estudio del texto en la investigación en políticas.
+
+Este evento es una oportunidad para reflexionar sobre las posibilidades que tenemos a nuestro alcance para el análisis computacional de texto e introducir una de las herramientas más actuales a nuestra disposición.
+
+[Programa](/data/workshop_nlp.pdf)
+
+<span style="color: grey;">*El Proyecto Representación Retórica e Influencia de los Grupos Organizados en la Definición del Debate Público y en la Actividad Legislativa es financiado con una beca "Retos de Investigación" tipo JIN (Jóvenes Investigadores) del Gobierno de España - RTI2018-100861-J-I00.*</span>
+

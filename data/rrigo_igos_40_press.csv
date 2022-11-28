@@ -1,0 +1,42 @@
+﻿name;id;source;date1;date2;obs;issue;code;subcode;capcode;type
+ATTAC;attac;https://attac.es/;03/12/2008;04/05/2021;1598;social justice;1;107;Macroeconomics;NGO
+Hazte Oir;ho;https://www.citizengo.org/hazteoir;01/02/2004;14/12/2021;661;antiabortion;2;208;Civil Rights;Special interest organization
+Federación Estatal de Lesbianas, Gays, Transexuales y Bisexuales ;felgtb;http://www.felgtb.org/;02/05/2011;15/12/2021;637;lgtbi;2;202;Civil Rights;Special interest organization
+Europa Laica;europalaica;https://laicismo.org;30/01/2003;13/04/2021;3683;religious;2;207;Civil Rights;Special interest organization
+Coordinadora Estatal de Organizaciones Feministas Estado Español;feof;http://www.feministas.org/;19/09/2008;20/05/2021;650;women;2;202;Civil Rights;Special interest organization
+Federación Española de Jugadores de Azar Rehabilitados ;fejar;https://fejar.org;17/04/2015;30/03/2021;118;health;3;325;Health;Special interest organization
+Asociación Agraria de Jóvenes Agricultores ;asaja;http://www.asaja.com;26/09/2011;30/04/2021;8632;farmers;4;402;Agriculture;Professional organization
+Coordinadora de Organizaciones de Agricultores y Ganaderos ;coag;http://coag.chil.me;15/12/2015;17/05/2021;641;farmers;4;402;Agriculture;Special interest organization
+Unión de Pequeños Agricultores y Ganaderos ;upa;https://www.upa.es/;23/03/2021;23/04/2021;1390;farmers;4;402;Agriculture;Professional organization
+Asociación Nacional de Profesionales de la Enseñanza ;anpe;https://anpe.es/;28/04/2015;27/04/2021;2103;labour;5;504;Labor;Union
+Asociaciones de Trabajadores Autónomos ;ata;https://ata.es;08/06/2017;04/05/2021;835;labour;5;504;Labor;Professional organization
+Comisiones Obreras;ccoo;http://www.ccoo.es;26/01/2006;29/10/2021;8195;labour;5;504;Labor;Union
+Confederación General del Trabajo;cgt;https://cgt.org.es;28/06/2007;16/12/2021;3279;labour;5;504;Labor;Union
+Confederación Sindical Independiente de Funcionarios;csif;https://www.csif.es;19/05/2012;30/03/2020;508;labour;5;504;Labor;Union
+Marea Pensionista;mareapensionista;http://mareapensionista.org/;26/05/2015;16/12/2021;841;labour;5;504;Labor;Special interest organization
+Unión general de Trabajadores;ugt;https://www.ugt.es/;22/01/2016;26/04/2021;4980;labour;5;504;Labor;Union
+Unión Sindical Obrera;uso;https://www.uso.es/;18/01/2013;21/10/2021;1755;labour;5;504;Labor;Union
+Confederación Autónoma Nacional de Asociaciones de Estudiantes ;canae;http://www.canae.org;;;;education;6;600;Education;Special interest organization
+Confederación Española de Asociaciones de Padres y Madres de Alumnos ;ceapa;https://www.ceapa.es;12/10/2014;07/12/2021;137;education;6;600;Education;Special interest organization
+Sindicato de Estudiantes;se;https://www.sindicatodeestudiantes.net/;13/05/2014;25/04/2021;1392;education;6;600;Education;Union
+SEO/BIRDLIFE;birdlife;http://avt.org;08/03/2016;31/10/2021;1039;environment;7;709;Environment;Special interest organization
+Ecologistas en Acción;eea;https://www.ecologistasenaccion.org/;01/09/2003;02/04/2021;2307;environment;7;700;Environment;NGO
+Amigos de la Tierra;foe;https://fmujeresprogresistas.org/;25/11/2008;24/03/2021;1024;environment;7;700;Environment;Special interest organization
+Greenpeace España;gp;https://grupocrecimientoverde.org/;10/03/2004;08/07/2021;4149;environment;7;700;Environment;Business association
+WWF España;wwf;https://www.wwf.es/;13/11/2005;28/10/2021;1069;environment;7;709;Environment;NGO
+Asociación de Municipios afectados por Centrales Nucleares ;amac;http://www.amac.es;20/07/2006;18/12/2020;412;energy;8;800;Energy;NGO
+UNICEF;unicef;https://www.unicef.es/;23/06/2007;09/12/2021;869;childhood;13;1308;Social Welfare;NGO
+Comité Español de Representantes de Personas con Discapacidad;cermi;https://www.cermi.es;19/01/2005;17/12/2021;1223;disability;13;1304;Social Welfare;Special interest organization
+Fundación ONCE Organización Nacional de Ciegos Española;once;https://www.once.es/;25/04/2018;22/04/2021;160;disability;13;1304;Social Welfare;Special interest organization
+Cáritas;caritas;https://www.caritas.es;04/01/2016;07/05/2021;577;poverty;13;1302;Social Welfare;NGO
+Plataforma de Afectados por las Hipotecas ;pah;https://afectadosporlahipoteca.com/;16/12/2013;20/12/2021;332;housing;14;1401;Housing;Special interest organization
+Círculo de Empresarios;cde;https://circulodeempresarios.org;05/08/2015;19/04/2021;363;business;15;1520;Domestic Commerce;Business association
+Confederación Española de Organizaciones Empresariales ;ceoe;https://www.ceoe.es;09/07/2014;11/05/2021;4896;business;15;1520;Domestic Commerce;Business association
+Confederación Empresarial Española Economía Social ;cepes;https://www.cepes.es;19/07/2011;20/04/2021;384;business;15;1520;Domestic Commerce;Business association
+Confederación Española Pequeña y Mediana Empresa ;cepyme;https://www.cepyme.es;26/04/2016;01/12/2021;195;business;15;1521;Domestic Commerce;Business association
+Organización de Consumidores y Usuarios;ocu;https://www.ocu.org/;22/11/2019;23/04/2021;495;consumer;15;1525;Domestic Commerce;Special interest organization
+Amnistía Internacional;amnesty;https://www.es.amnesty.org;05/01/2004;29/04/2021;798;human rights;19;1925;International Affairs;NGO
+Comisión Española de Ayuda al Refugiado ;cear;https://www.cear.es;31/08/2012;30/04/2021;543;human rights;19;1925;International Affairs;NGO
+Human Rights Watch;hrw;https://www.citizengo.org/hazteoir;19/10/1998;03/11/2021;76;human rights;19;1925;International Affairs;Special interest organization
+Servicio al Tercer Mundo;setem;http://www.setem.org;26/03/2011;21/04/2021;175;social justice;19;1901;International Affairs;NGO
+Asociación Víctimas del Terrorismo ;avt;http://avt.org;02/10/2009;30/04/2021;1621;victims;20;2015;Government Operations;Special interest organization

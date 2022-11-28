@@ -1,0 +1,23 @@
+---
+title: "Partidos"
+editor: visual
+---
+
+El estudio se centra en los cinco partidos más grandes de habla hispana (PSOE, PP, UP, Cs y VOX) durante el período 2012-2021. Los datos de comunicaciones de los partidos incluyen los tweets de los diputados y las comunicaciones oficiales de los partidos en sus comuniados de prensa.
+
+### Twitter
+El número de diputados en Twitter varía por partido y por período. Se han identificado los perfiles oficiales de Twitter para 553 usuarios únicos. Se han recogido 1,123,000 tweets entre el 1 de enero de 2012 y el nueve de noviembre de 2021.
+
+```{r, echo=FALSE, message=FALSE}
+
+# ![Número de diputados en Twitter](./images/mps_twitter_es2.jpg)
+
+```
+
+![Número de tweets al mes por Partido](./images/tweets_parties_es.jpg)
+
+### Comunicados de Prensa
+
+Los comunicados de prensa son un medio utilizado por los partidos para expresar sus posiciones sobre múltiples asuntos de actualidad con la frecuencia que consideran apropiada, sin interferencia de la prensa o las restricciones de otro medios y utilizando sus propios términos. Los comunicados de prensa fueron extraídos de sus sitios web oficiales (N = 43,800). 
+
+![Número de comunicados de prensa al mes por Partido](./images/prs_parties_es.jpg)

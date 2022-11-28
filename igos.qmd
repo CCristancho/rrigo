@@ -1,0 +1,50 @@
+---
+title: "GdI y OMS"
+editor: visual
+---
+
+## Grupos de interés y organizaciones de movimientos sociales
+
+La muestra seleccionada contiene 140 organizaciones de grupos de interés de ámbito nacional en 14 áreas temáticas. Estas organizaciones han sido identificadas como las más activas en las arenas parlamentaria y gubernamental en España de acuerdo con los registros públicos durante las dos últimas décadas.
+
+Las organizaciones de la muestra fueron clasificadas en cinco tipos (Asociaciones empresariales, ONG, Organizaciones profesionales, Organizaciones de interés especial y sindicatos) siguiendo trabajos previos sobre grupos de interés y partidos.
+
+```{r, echo=FALSE, message=FALSE}
+
+library(dplyr)
+library(kableExtra)
+
+rrigo_igos_140 <- read.csv2("data/rrigo_igos_140.csv")
+
+rrigo_igos_140 %>%
+  knitr::kable() %>%
+  kable_styling(bootstrap_options = c("striped", "hover")) %>% 
+  kable_paper() %>%
+  scroll_box(width = "100%", height = "200px")
+```
+
+### Twitter
+
+Los registros de las intervenciones públicas para la muestra de los grupos de interés y organizaciones sociales se extrajeron de los perfiles oficiales de Twitter. Para estos 140 usuarios se han recogido 536,420 tweets entre el 1 de marzo de 2018 -- y el primero de marzo de 2021.
+
+![Número de tweets al mes por tipo de grupo](./images/tweets_igos_es.jpg)
+
+### Comunicados de Prensa
+
+Para 40 de los grupos de interés y organizaciones sociales de la muestra se extrajeron aproximadamente 90,000 comunicados de prensa de sus sitios web para diferentes períodos (1998 a 2021). Esta submuestra fue seleccionada por la conveniencia de comparar organizaciones por áraes temáticas y por la disponibilidad de los comunicados de prensa en sus sitios web.
+
+```{r, echo=FALSE, message=FALSE}
+
+library(dplyr)
+library(kableExtra)
+
+rrigo_igos_40 <- read.csv2("data/rrigo_igos_40_press.csv")
+
+rrigo_igos_40 %>%
+  knitr::kable() %>%
+  kable_styling(bootstrap_options = c("striped", "hover")) %>% 
+  kable_paper() %>%
+  scroll_box(width = "100%", height = "300px")
+```
+
+![Comunicados de prensa por tipo de grupo](./images/prs_igos_es.jpg)
